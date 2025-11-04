@@ -20,7 +20,7 @@ In this approach, the final JSON is **the result**, not the **generation target*
 
 ## Workflow
 
-```mermaid
+```text
 User input: “Create a workflow that denoises and then upscales an image”
 ↓
 LLM → Outputs semantic IR (intermediate step description)
