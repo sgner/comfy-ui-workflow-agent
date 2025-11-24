@@ -2,6 +2,10 @@
 
 # comfyui-workflow-agent
 
+![f](https://github.com/sgner/images/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-11-24%20092052.png)
+![f1](https://github.com/sgner/images/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-11-24%20092114.png)
+![f2](https://github.com/sgner/images/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-11-24%20092130.png)
+
 An intelligent agent designed for **ComfyUI**, providing workflow generation, debugging, optimization, and parameter testing capabilities.
 
 ## Main Problems and Solutions
